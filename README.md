@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/IshaVishwas/IshaVishwas/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Programming Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm ISHA</h1>
 <h3 align="center">B.Tech CSE Student | Specializing in AI & Machine Learning</h3>
 
