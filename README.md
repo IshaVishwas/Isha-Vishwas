@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/IshaVishwas/IshaVishwas/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Programming Banner" width="100%" />
+    <img src="h68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966.gif" alt="Programming Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ISHA</h1>
