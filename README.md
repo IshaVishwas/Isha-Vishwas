@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="h68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966.gif" alt="Programming Banner" width="100%" />
+    <img src="68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966.gif" alt="Programming Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ISHA</h1>
